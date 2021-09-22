@@ -41,3 +41,7 @@ body {
   align-items: center;
   border: 1px solid black;
 }
+
+.section:first-child {
+  margin-top: 0;
+}
